@@ -1,0 +1,23 @@
+[tool.dagster]
+module_name = "dagster_project"
+
+[project]
+name = "ml_pipeline_project"
+version = "0.1.0"
+description = "Pipeline MLOps con Dagster"
+authors = ["Tomi Rubinstein <tomirubinstein@gmail.com>"]
+dependencies = [
+    "dagster",
+    "dagster-webserver",
+    "dagster-dbt",
+    "requests",
+    "mlflow",
+    "dbt-core",
+    "dbt-postgres"
+]
+requires-python = ">=3.9"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Tomas/Documents/GitHub/TP_FINAL_MLOPS_ITBA/2_ml_pipeline_project/mlruns/0/b20abce3428c4c1fbd4845ddc3c36690/artifacts
+end_time: 1742685708455
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b20abce3428c4c1fbd4845ddc3c36690
+run_name: keras_model1
+run_uuid: b20abce3428c4c1fbd4845ddc3c36690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742685691529
+status: 3
+tags: []
+user_id: Tomas

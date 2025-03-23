@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1742684342517
+current_stage: None
+description: null
+last_updated_timestamp: 1742684342517
+name: keras_recommender
+run_id: 171a6fa4978f46e2b40786bcaeaeeed2
+run_link: null
+source: file:///C:/Users/Tomas/Documents/GitHub/TP_FINAL_MLOPS_ITBA/2_ml_pipeline_project/mlruns/0/171a6fa4978f46e2b40786bcaeaeeed2/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Tomas/Documents/GitHub/TP_FINAL_MLOPS_ITBA/2_ml_pipeline_project/mlruns/0/171a6fa4978f46e2b40786bcaeaeeed2/artifacts/model
+user_id: null
+version: 4
